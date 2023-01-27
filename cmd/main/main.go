@@ -13,6 +13,6 @@ func main() {
 		str := fmt.Sprintf("%v", v)
 		fmt.Println(i, str)
 	}
-	//SendMessage("фывфы", "504416149")
+	tg_api.SendMessage("фывфы", "504416149")
 
 }
